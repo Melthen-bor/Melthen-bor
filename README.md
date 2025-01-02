@@ -1,5 +1,5 @@
 # Plans
-1. improve aurum-✅
+1. create aurum standard library
 2. bootstrap compiler
-3. create aurum standard library
-4. write up aurum specification
+3. write up aurum specification
+4. add more targets
