@@ -1,5 +1,6 @@
-# Plans
-1. create aurum standard library
-2. bootstrap compiler
-3. write up aurum specification
-4. add more targets
+# Aurum Plans
+1. Start using an IR
+2. Implement a proper parser
+3. Bootstrap compiler
+4. Add more targets(Assembly)
+5. Create aurum standard library
