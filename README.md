@@ -1,10 +1,10 @@
 # Plans
 ## Aurum
-1. Start using an IR
-2. Implement a proper parser
+1. Use a C Backend
 3. Bootstrap compiler
-4. Add more targets(Assembly)
 5. Create aurum standard library
+6. Start using an IR
+7. Implement a proper parser
 ## SEG
 1. Implement utf-16 strings
 2. Finish Build System
