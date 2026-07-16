@@ -1,10 +1,11 @@
 # Plans
 ## Aurum
-1. Use a C Backend
-3. Bootstrap compiler
-5. Create aurum standard library
-6. Start using an IR
-7. Implement a proper parser
+1. Implement Parser and AST generation
+2. Implement Generation of C code
+3. Bootstrap Compiler
+4. Rewrite Compiler in Aurum
+7. Improve Metaprogramming
+6. Create Standard Library
 ## SEG
 1. Implement utf-16 strings
 2. Finish Build System
