@@ -1,8 +1,7 @@
 # Plans
 ## Aurum
 1. Reimplement Lexer
-2. Implement Parser and CST generation
-3. Implement AST from CST generation
+2. Implement Parser and AST generation
 4. Implement AST desugering
 5. Implement AST optimization
 6. Implement IR Generation
